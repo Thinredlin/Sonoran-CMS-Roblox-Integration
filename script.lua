@@ -1,7 +1,7 @@
 -- Configuration Settings --
-local ServerID = 1 -- This coresponds to the server ID set in the SonoranCMS configuration
-local CommunityID = "REPLACE_THIS" -- The community ID for your SonoranCMS community
-local APIKey = "REPLACE_THIS" -- The community API key copied from your SonoranCMS community's admin page
+local ServerID = M9ZMMPOU -- This coresponds to the server ID set in the SonoranCMS configuration
+local CommunityID = "9d94fbc5-9835-4697-991b-16603c97c1d0" -- The community ID for your SonoranCMS community
+local APIKey = "24c89ed5-8ef8-4e46-8b4a-7f3f43f55891" -- The community API key copied from your SonoranCMS community's admin page
 
 -- !!! SCRIPT START !!! PROCEED WITH CAUTION --
 local Players = game:GetService("Players")
